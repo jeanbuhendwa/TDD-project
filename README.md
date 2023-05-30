@@ -1,1 +1,1 @@
-# Test DD-project with ruby.
+# TDD-project with ruby.
