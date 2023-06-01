@@ -1,2 +1,2 @@
 # TDD-project with ruby.
-for practices 
+for ruby practices 
